@@ -86,6 +86,11 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![Cookie Parser](https://img.shields.io/badge/Cookie--Parser-000000?style=for-the-badge&logo=express&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+
+N
 </div>
 
 
