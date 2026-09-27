@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaScript ecosystem. Currently working as an IT Intern, I spend my time building modern web applications, optimizing databases 🗄️, and exploring new programming languages to expand my toolkit 🛠️. Beyond web development, I am deeply fascinated by AI & Machine Learning 🤖 and love learning how intelligent systems are shaping the future of technology. Always eager to connect, collaborate, and build cool things! 🚀
-
 <div>
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" />
 
+Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaScript ecosystem. Currently working as an IT Intern, I spend my time building modern web applications, optimizing databases 🗄️, and exploring new programming languages to expand my toolkit 🛠️. Beyond web development, I am deeply fascinated by AI & Machine Learning 🤖 and love learning how intelligent systems are shaping the future of technology. Always eager to connect, collaborate, and build cool things! 🚀
+
+<br/>
 💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem  
 💼 Currently working as an IT Intern  
 🗄️ Expanding knowledge in Databases & exploring new programming languages  
