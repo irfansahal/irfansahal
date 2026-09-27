@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
-
-## Hi there 👋 I am Irfan Taqi 
-
+ 
+## 🌟 About Me
 <!--
 **irfansahal/irfansahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaScript ecosystem. Currently working as an IT Intern, I spend my time building modern web applications, optimizing databases 🗄️, and exploring new programming languages to expand my toolkit 🛠️. Beyond web development, I am deeply fascinated by AI & Machine Learning 🤖 and love learning how intelligent systems are shaping the future of technology. Always eager to connect, collaborate, and build cool things! 🚀
+
 <div>
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" />
