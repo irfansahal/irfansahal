@@ -72,7 +72,7 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/Postgres-47A248?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/postgresql-47A248?style=for-the-badge&logo=mongodb)
 
 
 </div>
