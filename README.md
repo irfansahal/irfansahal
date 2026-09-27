@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Irfan Taqi 
 
 <!--
 **irfansahal/irfansahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&pause=1000&color=FF63DC&center=true&width=435&lines=I+am++a+full+stack+web+developer+.;+Resently+javascript+based+developer+.;Learning+database+.+;+Exploring+different+languages++.;Interested+about+Ai+machine+learning++.++;Currently+an+IT+internet++.)](https://git.io/typing-svg)
