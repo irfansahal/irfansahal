@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="lieft" style="padding: 20px;">
  
-Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaScript ecosystem. Currently working as an IT Intern, I spend my time building modern web applications, optimizing databases 🗄️, and exploring new programming languages to expand my toolkit 🛠️. Beyond web development, I am deeply fascinated by AI & Machine Learning 🤖 and love learning how intelligent systems are   shaping the future of technology. Always eager to connect, collaborate, and build cool things! 🚀
+Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaScript ecosystem. Currently working as an IT Intern, I spend my time building modern web applications, optimizing databases 🗄️, and exploring new programming languages to expand my toolkit 🛠️. Beyond web development, I am deeply fascinated by AI & Machine Learning 🤖 and love learning how intelligent systems are shaping the future of    technology. Always eager to connect, collaborate, and build cool things! 🚀
 
 </div>
 
