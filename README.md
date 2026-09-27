@@ -87,6 +87,14 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![Cookie Parser](https://img.shields.io/badge/Cookie--Parser-000000?style=for-the-badge&logo=express&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
