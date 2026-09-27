@@ -52,6 +52,8 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 ## 💻 Tech Stack
 
+<div align="center">
+ 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -59,6 +61,7 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
+</div>
 
 ![RERER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVxenVybWVlbjllcHZoZTc1eTlmdmlxcXEwaGxuNm1scHd1OHY5eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif)
 
