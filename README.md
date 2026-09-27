@@ -33,6 +33,12 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 <br clear="both">
 <br clear="both">
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4FD124&width=435&lines=I+am+Full-Stack+Web+Developer;focusing+on+JavaScript%2FTypeScript+;Currently+working+as+an+IT+Intern;Learning+Databases+%26+;exploring+new+programming+languages)](https://git.io/typing-svg)
+
+</div>
+
 💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem  
 💼 Currently working as an IT Intern    
 🗄️ Expanding knowledge in Databases & exploring new programming languages    
