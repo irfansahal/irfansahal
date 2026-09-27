@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=59&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=59&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
 
 ## Hi there 👋 I am Irfan Taqi 
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![RERER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVxenVybWVlbjllcHZoZTc1eTlmdmlxcXEwaGxuNm1scHd1OHY5eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=footer&reversal=false&text=Thank+you&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=for+being+with+us.+&descSize=25&descAlign=50&descAlignY=62)
