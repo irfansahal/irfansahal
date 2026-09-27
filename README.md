@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif)
 
 ![RERER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVxenVybWVlbjllcHZoZTc1eTlmdmlxcXEwaGxuNm1scHd1OHY5eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40)
