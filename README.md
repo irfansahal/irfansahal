@@ -1,4 +1,8 @@
+<div align="lieft">
+ 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+I+am+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
+
+ </div>
  
 ## 🌟 About Me
 <!--
@@ -74,8 +78,8 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
