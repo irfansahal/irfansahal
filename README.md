@@ -57,7 +57,14 @@ Here are some ideas to get you started:
 
 </td>
 </tr>
-</table>
+</table> 
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" />
+
+💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem  
+💼 Currently working as an IT Intern  
+🗄️ Expanding knowledge in Databases & exploring new programming languages  
+🤖 Enthusiastic about AI & Machine Learning
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
