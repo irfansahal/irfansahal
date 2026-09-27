@@ -24,10 +24,20 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<div align="left">
+  
 💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem
 💼 Currently working as an IT Intern
 🗄️ Expanding knowledge in Databases & exploring new programming languages
 🤖 Enthusiastic about AI & Machine Learning
+
+</div>
+
+<div align="right">
+
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif)
+  
+</div>
 
 </div>
 
@@ -38,7 +48,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRpNHR0Y3g4YXlvdXYyMnQwZjY0b2wwem80ejl6eWprcW5wem9oYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif)
+
 
 ![RERER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVxenVybWVlbjllcHZoZTc1eTlmdmlxcXEwaGxuNm1scHd1OHY5eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif)
 
