@@ -62,7 +62,7 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![React-Router](https://img.shields.io/badge/Router-20232A?style=for-the-badge&logo=react)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/CSSBootstrap?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/bootstrap?style=for-the-badge&logo=css3)
 
 </div>
 
