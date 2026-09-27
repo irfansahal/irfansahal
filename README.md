@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=70&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=70&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
 
 ## Hi there 👋 I am Irfan Taqi 
 
