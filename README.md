@@ -31,7 +31,7 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 <br clear="both">
 <br clear="both">
-<br clear="both">
+
 
 <div align="center">
 
