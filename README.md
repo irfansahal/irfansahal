@@ -66,10 +66,17 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<br>
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/Postgres-47A248?style=for-the-badge&logo=mongodb)
+
+
 </div>
 
-![RERER](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVxenVybWVlbjllcHZoZTc1eTlmdmlxcXEwaGxuNm1scHd1OHY5eiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=footer&reversal=false&text=Thank+you&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=for+being+with+us.+&descSize=25&descAlign=50&descAlignY=62)
