@@ -78,6 +78,9 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Cookie Parser](https://img.shields.io/badge/Cookie--Parser-000000?style=for-the-badge&logo=express&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 </div>
 
