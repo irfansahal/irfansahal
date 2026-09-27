@@ -31,6 +31,8 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 <br clear="both">
 <br clear="both">
+<br clear="both">
+
 💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem  
 💼 Currently working as an IT Intern    
 🗄️ Expanding knowledge in Databases & exploring new programming languages    
