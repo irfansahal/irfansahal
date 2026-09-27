@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
+
+💻 Full-Stack Web Developer focusing on JavaScript/TypeScript ecosystem
+💼 Currently working as an IT Intern
+🗄️ Expanding knowledge in Databases & exploring new programming languages
+🤖 Enthusiastic about AI & Machine Learning
+
+</div>
+
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
