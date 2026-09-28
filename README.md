@@ -3,6 +3,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=header&reversal=false&text=Hi+I+am+Irfan+Taqi+&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=Assalamu+Alaikum+I+am+Passionate+about+Computer+Science%2C+Web+Development+and+AI&descSize=20&descAlign=50&descAlignY=62)
 
  </div>
+
+<div align="center">
+
+ [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/YOUR_FACEBOOK_ID](https://www.facebook.com/profile.php?id=100082053795847))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_ID)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](irfansahal1998@gmail.com)
+
+</div>
  
 ## 🌟 About Me
 <!--
