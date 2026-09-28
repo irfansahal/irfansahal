@@ -54,6 +54,14 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 <br>
 
+## 💬 Ask Me About
+
+Web Development: JavaScript, React, Node.js, Express, HTML/CSS
+Databases: MongoDB, SQL, and database design fundamentals
+Current Focus: AI based concepts, exploring new languages, full-stack architecture
+
+<br>
+
 ## 💻 Tech Stack
 
 <div >
