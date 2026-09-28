@@ -109,6 +109,8 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
+<br>
+
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
