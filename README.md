@@ -97,10 +97,10 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
+## 📊 GitHub Activity
+
 <div align="center"> 
- 
-##📊 GitHub Activity  
- 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=irfansahal&theme=hacker)](https://git.io/streak-stats)
 
 </div>
