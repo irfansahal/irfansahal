@@ -109,11 +109,9 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
-<div align="center">
-
-
 ## 🐍 GitHub Contribution Snake
 
+<div align="center">
  
 ![Snake animation](https://raw.githubusercontent.com/irfansahal/irfansahal/output/github-contribution-grid-snake-dark.svg)
 
