@@ -97,6 +97,6 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/irfansahal/irfansahal/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/irfansahal/irfansahal/output/github-contribution-grid-snake-dark.svg)
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=footer&reversal=false&text=Thank+you&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=for+being+with+us.+&descSize=25&descAlign=50&descAlignY=62)
