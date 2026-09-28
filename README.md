@@ -97,6 +97,12 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
+## 📊 GitHub Stats  
 
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=footer&reversal=false&text=Thank+you&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=for+being+with+us.+&descSize=25&descAlign=50&descAlignY=62)
