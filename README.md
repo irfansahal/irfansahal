@@ -99,7 +99,7 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 chartreuse-dark
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=irfansahal1&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=irfansahal&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ![Snake animation](https://raw.githubusercontent.com/irfansahal/irfansahal/output/github-contribution-grid-snake-dark.svg)
   
