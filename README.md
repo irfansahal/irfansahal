@@ -119,5 +119,9 @@ Hey there! 👋 I’m a Full-Stack Web Developer primarily focused on the JavaSc
 
 </div>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=irfansahal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansahal&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=0D2E02&section=footer&reversal=false&text=Thank+you&textBg=false&fontColor=4AE016&fontSize=42&fontAlign=49&fontAlignY=40&animation=fadeIn&strokeWidth=0&desc=for+being+with+us.+&descSize=25&descAlign=50&descAlignY=62)
